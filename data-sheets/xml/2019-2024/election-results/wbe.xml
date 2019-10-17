@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="WBE">
+    <parentDivision>BE</parentDivision>
+    <seatsTotal>8</seatsTotal>
+    <seatsPercentEU>1.07</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="EPP">
+                <seatsTotal>1</seatsTotal>
+                <seatsPercentEU>0.13</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="SD">
+                <seatsTotal>2</seatsTotal>
+                <seatsPercentEU>0.27</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ALDE">
+                <seatsTotal>2</seatsTotal>
+                <seatsPercentEU>0.27</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GUENGL">
+                <seatsTotal>1</seatsTotal>
+                <seatsPercentEU>0.13</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GREENSEFA">
+                <seatsTotal>2</seatsTotal>
+                <seatsPercentEU>0.27</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-06-14T10:07:42.115+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="BE08">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>26.69</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>2</seatsTotal>
+                        <seatsPercentEU>0.27</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BE09">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>19.29</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>2</seatsTotal>
+                        <seatsPercentEU>0.27</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BE10">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>8.94</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BE11">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>19.91</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>2</seatsTotal>
+                        <seatsPercentEU>0.27</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BE12">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>14.59</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GUENGL">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BE13">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>5.92</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BE14">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>4.66</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BE91">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>0.0</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>

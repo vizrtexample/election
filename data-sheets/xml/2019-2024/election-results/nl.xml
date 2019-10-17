@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="NL">
+    <seatsTotal>26</seatsTotal>
+    <seatsPercentEU>3.46</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="EPP">
+                <seatsTotal>6</seatsTotal>
+                <seatsPercentEU>0.8</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="SD">
+                <seatsTotal>6</seatsTotal>
+                <seatsPercentEU>0.8</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ECR">
+                <seatsTotal>4</seatsTotal>
+                <seatsPercentEU>0.53</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ALDE">
+                <seatsTotal>6</seatsTotal>
+                <seatsPercentEU>0.8</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GUENGL">
+                <seatsTotal>1</seatsTotal>
+                <seatsPercentEU>0.13</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GREENSEFA">
+                <seatsTotal>3</seatsTotal>
+                <seatsPercentEU>0.4</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-09-25T18:12:30.415+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="NL01">
+                <type>PARTY</type>
+                <seatsTotal>4</seatsTotal>
+                <votesPercent>12.18</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>4</seatsTotal>
+                        <seatsPercentEU>0.53</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL02">
+                <type>PARTY</type>
+                <seatsTotal>6</seatsTotal>
+                <votesPercent>19.01</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>6</seatsTotal>
+                        <seatsPercentEU>0.8</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL03">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.37</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="NL04">
+                <type>PARTY</type>
+                <seatsTotal>4</seatsTotal>
+                <votesPercent>14.64</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>4</seatsTotal>
+                        <seatsPercentEU>0.53</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL05">
+                <type>PARTY</type>
+                <seatsTotal>3</seatsTotal>
+                <votesPercent>10.9</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>3</seatsTotal>
+                        <seatsPercentEU>0.4</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL06">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.53</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="NL07">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>7.09</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>2</seatsTotal>
+                        <seatsPercentEU>0.27</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL08">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>4.02</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GUENGL">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL09">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>6.83</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                    <seatsOfGroup id="ECR">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL10">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>3.91</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL11">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.1</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="NL12">
+                <type>PARTY</type>
+                <seatsTotal>3</seatsTotal>
+                <votesPercent>10.96</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ECR">
+                        <seatsTotal>3</seatsTotal>
+                        <seatsPercentEU>0.4</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="NL13">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.93</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="NL90">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>0.53</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>

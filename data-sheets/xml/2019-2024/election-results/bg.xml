@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="BG">
+    <seatsTotal>17</seatsTotal>
+    <seatsPercentEU>2.26</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="EPP">
+                <seatsTotal>7</seatsTotal>
+                <seatsPercentEU>0.93</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="SD">
+                <seatsTotal>5</seatsTotal>
+                <seatsPercentEU>0.67</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ECR">
+                <seatsTotal>2</seatsTotal>
+                <seatsPercentEU>0.27</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ALDE">
+                <seatsTotal>3</seatsTotal>
+                <seatsPercentEU>0.4</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-09-25T18:12:30.415+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="BG01">
+                <type>PARTY</type>
+                <seatsTotal>5</seatsTotal>
+                <votesPercent>24.26</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>5</seatsTotal>
+                        <seatsPercentEU>0.67</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BG02">
+                <type>PARTY</type>
+                <seatsTotal>3</seatsTotal>
+                <votesPercent>16.55</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>3</seatsTotal>
+                        <seatsPercentEU>0.4</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BG03">
+                <type>PARTY</type>
+                <seatsTotal>6</seatsTotal>
+                <votesPercent>31.07</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>6</seatsTotal>
+                        <seatsPercentEU>0.8</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BG04">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>0.86</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BG05">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.62</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BG06">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>6.06</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BG07">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.07</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BG08">
+                <type>PARTY</type>
+                <seatsTotal>2</seatsTotal>
+                <votesPercent>7.36</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ECR">
+                        <seatsTotal>2</seatsTotal>
+                        <seatsPercentEU>0.27</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="BG09">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.15</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="BG90">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>8.0</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>

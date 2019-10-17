@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="GB">
+    <parentDivision>UK</parentDivision>
+    <seatsTotal>70</seatsTotal>
+    <seatsPercentEU>9.32</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="SD">
+                <seatsTotal>10</seatsTotal>
+                <seatsPercentEU>1.33</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ECR">
+                <seatsTotal>4</seatsTotal>
+                <seatsPercentEU>0.53</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ALDE">
+                <seatsTotal>16</seatsTotal>
+                <seatsPercentEU>2.13</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GREENSEFA">
+                <seatsTotal>11</seatsTotal>
+                <seatsPercentEU>1.46</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="NA">
+                <seatsTotal>29</seatsTotal>
+                <seatsPercentEU>3.86</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-09-25T18:12:30.415+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="UK07">
+                <type>PARTY</type>
+                <seatsTotal>4</seatsTotal>
+                <votesPercent>9.09</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ECR">
+                        <seatsTotal>4</seatsTotal>
+                        <seatsPercentEU>0.53</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK08">
+                <type>PARTY</type>
+                <seatsTotal>10</seatsTotal>
+                <votesPercent>14.1</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>10</seatsTotal>
+                        <seatsPercentEU>1.33</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK09">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.3</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="UK10">
+                <type>PARTY</type>
+                <seatsTotal>3</seatsTotal>
+                <votesPercent>3.6</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>3</seatsTotal>
+                        <seatsPercentEU>0.4</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK11">
+                <type>PARTY</type>
+                <seatsTotal>1</seatsTotal>
+                <votesPercent>1.0</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>1</seatsTotal>
+                        <seatsPercentEU>0.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK12">
+                <type>PARTY</type>
+                <seatsTotal>16</seatsTotal>
+                <votesPercent>20.3</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>16</seatsTotal>
+                        <seatsPercentEU>2.13</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK13">
+                <type>PARTY</type>
+                <seatsTotal>7</seatsTotal>
+                <votesPercent>12.09</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>7</seatsTotal>
+                        <seatsPercentEU>0.93</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK14">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.4</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="UK15">
+                <type>PARTY</type>
+                <seatsTotal>29</seatsTotal>
+                <votesPercent>31.6</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="NA">
+                        <seatsTotal>29</seatsTotal>
+                        <seatsPercentEU>3.86</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="UK91">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.52</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>

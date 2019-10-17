@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="PL">
+    <seatsTotal>51</seatsTotal>
+    <seatsPercentEU>6.79</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="EPP">
+                <seatsTotal>17</seatsTotal>
+                <seatsPercentEU>2.26</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="SD">
+                <seatsTotal>8</seatsTotal>
+                <seatsPercentEU>1.07</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ECR">
+                <seatsTotal>26</seatsTotal>
+                <seatsPercentEU>3.46</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-05-29T16:46:40.851+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="PL01">
+                <type>PARTY</type>
+                <seatsTotal>26</seatsTotal>
+                <votesPercent>45.38</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ECR">
+                        <seatsTotal>26</seatsTotal>
+                        <seatsPercentEU>3.46</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="PL02">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>4.55</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="PL03">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.69</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="PL04">
+                <type>PARTY</type>
+                <seatsTotal>3</seatsTotal>
+                <votesPercent>6.06</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>3</seatsTotal>
+                        <seatsPercentEU>0.4</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="PL05">
+                <type>COALITION</type>
+                <seatsTotal>22</seatsTotal>
+                <votesPercent>38.47</votesPercent>
+                <members>
+                    <seatsOfCoalitionMember id="PL06">
+                        <seatsTotal>17</seatsTotal>
+                        <groupDistribution>
+                            <seatsOfGroup id="EPP">
+<seatsTotal>17</seatsTotal>
+<seatsPercentEU>2.26</seatsPercentEU>
+                            </seatsOfGroup>
+                        </groupDistribution>
+                    </seatsOfCoalitionMember>
+                    <seatsOfCoalitionMember id="PL07">
+                        <seatsTotal>5</seatsTotal>
+                        <groupDistribution>
+                            <seatsOfGroup id="SD">
+<seatsTotal>5</seatsTotal>
+<seatsPercentEU>0.67</seatsPercentEU>
+                            </seatsOfGroup>
+                        </groupDistribution>
+                    </seatsOfCoalitionMember>
+                </members>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>17</seatsTotal>
+                        <seatsPercentEU>2.26</seatsPercentEU>
+                    </seatsOfGroup>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>5</seatsTotal>
+                        <seatsPercentEU>0.67</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="PL08">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>0.54</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="PL09">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>1.24</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="PL90">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>0.07</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>

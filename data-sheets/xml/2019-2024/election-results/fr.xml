@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownOfDivision id="FR">
+    <seatsTotal>74</seatsTotal>
+    <seatsPercentEU>9.85</seatsPercentEU>
+    <groupSummary>
+        <title>SEATS_BY_GROUP_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-02T10:00:00.000+0200</time>
+        <groupDistribution>
+            <seatsOfGroup id="EPP">
+                <seatsTotal>8</seatsTotal>
+                <seatsPercentEU>1.07</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="SD">
+                <seatsTotal>5</seatsTotal>
+                <seatsPercentEU>0.67</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ALDE">
+                <seatsTotal>21</seatsTotal>
+                <seatsPercentEU>2.8</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GUENGL">
+                <seatsTotal>6</seatsTotal>
+                <seatsPercentEU>0.8</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="GREENSEFA">
+                <seatsTotal>12</seatsTotal>
+                <seatsPercentEU>1.6</seatsPercentEU>
+            </seatsOfGroup>
+            <seatsOfGroup id="ENF">
+                <seatsTotal>22</seatsTotal>
+                <seatsPercentEU>2.93</seatsPercentEU>
+            </seatsOfGroup>
+        </groupDistribution>
+    </groupSummary>
+    <partySummary>
+        <breakdownByPartyHeader>
+            <title>BREAKDOWN_BY_PARTY_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T10:00:00.000+0200</time>
+        </breakdownByPartyHeader>
+        <resultsByPartyHeader>
+            <title>RESULTS_BY_PARTY_TITLE</title>
+            <status>OFFICIAL</status>
+            <time>2019-09-25T18:12:30.415+0200</time>
+        </resultsByPartyHeader>
+        <seatsByParty>
+            <seatsOfParty id="FR01">
+                <type>PARTY</type>
+                <seatsTotal>6</seatsTotal>
+                <votesPercent>6.31</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GUENGL">
+                        <seatsTotal>6</seatsTotal>
+                        <seatsPercentEU>0.8</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR02">
+                <type>PARTY</type>
+                <seatsTotal>5</seatsTotal>
+                <votesPercent>6.19</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="SD">
+                        <seatsTotal>5</seatsTotal>
+                        <seatsPercentEU>0.67</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR03">
+                <type>PARTY</type>
+                <seatsTotal>12</seatsTotal>
+                <votesPercent>13.47</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="GREENSEFA">
+                        <seatsTotal>12</seatsTotal>
+                        <seatsPercentEU>1.6</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR04">
+                <type>PARTY</type>
+                <seatsTotal>8</seatsTotal>
+                <votesPercent>8.48</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="EPP">
+                        <seatsTotal>8</seatsTotal>
+                        <seatsPercentEU>1.07</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR05">
+                <type>PARTY</type>
+                <seatsTotal>22</seatsTotal>
+                <votesPercent>23.34</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ENF">
+                        <seatsTotal>22</seatsTotal>
+                        <seatsPercentEU>2.93</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR06">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.51</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="FR07">
+                <type>PARTY</type>
+                <seatsTotal>21</seatsTotal>
+                <votesPercent>22.42</votesPercent>
+                <groupDistribution>
+                    <seatsOfGroup id="ALDE">
+                        <seatsTotal>21</seatsTotal>
+                        <seatsPercentEU>2.8</seatsPercentEU>
+                    </seatsOfGroup>
+                </groupDistribution>
+            </seatsOfParty>
+            <seatsOfParty id="FR08">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>2.49</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="FR09">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>2.5</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="FR10">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>3.27</votesPercent>
+            </seatsOfParty>
+            <seatsOfParty id="FR90">
+                <type>PARTY</type>
+                <seatsTotal>0</seatsTotal>
+                <votesPercent>8.02</votesPercent>
+            </seatsOfParty>
+        </seatsByParty>
+    </partySummary>
+</seatsBreakdownOfDivision>
