@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<genderBalance>
+    <genderBalanceEU>
+        <title>EU_GENDER_BALANCE_TITLE</title>
+        <status>CONSTITUTIVE</status>
+        <time>2019-07-08T12:11:46.058+0200</time>
+        <percent>
+            <men>59.0</men>
+            <women>41.0</women>
+        </percent>
+    </genderBalanceEU>
+    <genderBalanceByCountry>
+        <country countryId="BE">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>62.0</men>
+                <women>38.0</women>
+            </percent>
+        </country>
+        <country countryId="BG">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>71.0</men>
+                <women>29.0</women>
+            </percent>
+        </country>
+        <country countryId="CZ">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>67.0</men>
+                <women>33.0</women>
+            </percent>
+        </country>
+        <country countryId="DK">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-09-25T18:12:30.415+0200</time>
+            <percent>
+                <men>54.0</men>
+                <women>46.0</women>
+            </percent>
+        </country>
+        <country countryId="DE">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>64.0</men>
+                <women>36.0</women>
+            </percent>
+        </country>
+        <country countryId="EE">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>67.0</men>
+                <women>33.0</women>
+            </percent>
+        </country>
+        <country countryId="IE">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>55.0</men>
+                <women>45.0</women>
+            </percent>
+        </country>
+        <country countryId="EL">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>76.0</men>
+                <women>24.0</women>
+            </percent>
+        </country>
+        <country countryId="ES">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>53.0</men>
+                <women>47.0</women>
+            </percent>
+        </country>
+        <country countryId="FR">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="IT">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-19T12:27:35.902+0200</time>
+            <percent>
+                <men>59.0</men>
+                <women>41.0</women>
+            </percent>
+        </country>
+        <country countryId="CY">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>100.0</men>
+                <women>0.0</women>
+            </percent>
+        </country>
+        <country countryId="LV">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="LT">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>73.0</men>
+                <women>27.0</women>
+            </percent>
+        </country>
+        <country countryId="LU">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="HU">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>62.0</men>
+                <women>38.0</women>
+            </percent>
+        </country>
+        <country countryId="MT">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="NL">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-08T12:11:46.058+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="AT">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="PL">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>65.0</men>
+                <women>35.0</women>
+            </percent>
+        </country>
+        <country countryId="PT">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>57.0</men>
+                <women>43.0</women>
+            </percent>
+        </country>
+        <country countryId="RO">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>78.0</men>
+                <women>22.0</women>
+            </percent>
+        </country>
+        <country countryId="SI">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>50.0</men>
+                <women>50.0</women>
+            </percent>
+        </country>
+        <country countryId="SK">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>85.0</men>
+                <women>15.0</women>
+            </percent>
+        </country>
+        <country countryId="FI">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>46.0</men>
+                <women>54.0</women>
+            </percent>
+        </country>
+        <country countryId="SE">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-08T12:11:46.058+0200</time>
+            <percent>
+                <men>45.0</men>
+                <women>55.0</women>
+            </percent>
+        </country>
+        <country countryId="UK">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>53.0</men>
+                <women>47.0</women>
+            </percent>
+        </country>
+        <country countryId="HR">
+            <title>GENDER_BALANCE_TITLE</title>
+            <status>CONSTITUTIVE</status>
+            <time>2019-07-02T16:25:45.367+0200</time>
+            <percent>
+                <men>64.0</men>
+                <women>36.0</women>
+            </percent>
+        </country>
+    </genderBalanceByCountry>
+</genderBalance>

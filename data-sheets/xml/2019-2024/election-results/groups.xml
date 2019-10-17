@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupsMetadata>
+    <groups>
+        <group groupId="EPP">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Group of the European People's Party (Christian Democrats)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Grupo del Partido Popular Europeo (Demócrata-Cristianos)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>ЕНП</groupAcronym>
+                    <groupLongName>Група на Европейската народна партия (Християндемократи)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>ELS</groupAcronym>
+                    <groupLongName>Poslanecký klub Evropské lidové strany (Křesťanských demokratů)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Det Europæiske Folkepartis Gruppe (Kristelige Demokrater)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>EVP</groupAcronym>
+                    <groupLongName>Fraktion der Europäischen Volkspartei (Christdemokraten)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>ΕΛΚ</groupAcronym>
+                    <groupLongName>Κoιvoβoυλευτική Ομάδα τoυ Ευρωπαϊκoύ Λαϊκoύ Κόμματoς (Χριστιαvoδημoκράτες)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>ERP</groupAcronym>
+                    <groupLongName>Euroopa Rahvapartei (kristlike demokraatide) fraktsioon</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Euroopan kansanpuolueen ryhmä (kristillisdemokraatit)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Groupe du Parti populaire européen (Démocrates-Chrétiens)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Grúpa Pháirtí an Phobail Eorpaigh (Na Daonlathaithe Críostaí)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Klub zastupnika Europske pučke stranke (kršćanski demokrati)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Európai Néppárt (Kereszténydemokraták) képviselőcsoport</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Gruppo del Partito popolare europeo (Democratici cristiani)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>ETP</groupAcronym>
+                    <groupLongName>Eiropas Tautas partijas (Kristīgie demokrāti) grupa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>ELP</groupAcronym>
+                    <groupLongName>Europos liaudies partijos (krikščionių demokratų) frakcija</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Grupp tal-Partit Popolari Ewropew (Demokristjani)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>EVP</groupAcronym>
+                    <groupLongName>Fractie van de Europese Volkspartij (christendemocraten)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>EPL</groupAcronym>
+                    <groupLongName>Grupa Europejskiej Partii Ludowej (Chrześcijańscy Demokraci)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Grupo do Partido Popular Europeu (Democratas-Cristãos)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>PPE</groupAcronym>
+                    <groupLongName>Grupul Partidului Popular European (Creștin Democrat)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>EĽS</groupAcronym>
+                    <groupLongName>Poslanecký klub Európskej ľudovej strany (Kresťanských demokratov)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>ELS</groupAcronym>
+                    <groupLongName>Poslanska skupina Evropske ljudske stranke (Krščanskih demokratov)</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>EPP</groupAcronym>
+                    <groupLongName>Group of the European People's Party (Christian Democrats)</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="SD">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Group of the Progressive Alliance of Socialists and Democrats in the European Parliament</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Grupo de la Alianza Progresista de Socialistas y Demócratas en el Parlamento Europeo</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Група на Прогресивния алианс на социалистите и демократите в Европейския парламент</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Skupina progresivní aliance socialistů a demokratů v Evropském parlamentu</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Gruppen for Det Progressive Forbund af Socialdemokrater i Europa-Parlamentet</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Fraktion der Progressiven Allianz der Sozialdemokraten im Europäischen Parlament</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Ομάδα της Προοδευτικής Συμμαχίας των Σοσιαλιστών και Δημοκρατών στο Ευρωπαϊκό Κοινοβούλιο</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Sotsiaaldemokraatide ja demokraatide fraktsioon Euroopa Parlamendis</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Euroopan parlamentin sosialistien ja demokraattien ryhmä</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Groupe de l'Alliance Progressiste des Socialistes et Démocrates au Parlement européen</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>An Grúpa d'Aontas Forchéimnitheach na Sóisialaithe agus na nDaonlathaithe i bParlaimint na hEorpa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Klub zastupnika Progresivnog saveza socijalista i demokrata u Europskom parlamentu</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Szocialisták és Demokraták Progresszív Szövetsége az Európai Parlamentben képviselőcsoport</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Gruppo dell'Alleanza progressista di Socialisti e Democratici al Parlamento Europeo</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Eiropas Parlamenta sociālistu un demokrātu progresīvās alianses grupa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Europos Parlamento socialistų ir demokratų pažangiojo aljanso frakcija</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Grupp tal-Alleanza Progressiva tas-Soċjalisti u d-Demokratiċi fil-Parlament Ewropew</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Fractie van de Progressieve Alliantie van Socialisten en Democraten in het Europees Parlement</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Grupa Postępowego Sojuszu Socjalistów i Demokratów w Parlamencie Europejskim</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Grupo da Aliança Progressista dos Socialistas e Democratas no Parlamento Europeu</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Grupul Alianței Progresiste a Socialiștilor si Democraților din Parlamentul European</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Skupina progresívnej aliancie socialistov a demokratov v Európskom parlamente</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Skupina naprednega zavezništva socialistov in demokratov v Evropskem parlamentu</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>S&amp;D</groupAcronym>
+                    <groupLongName>Gruppen Progressiva förbundet av Socialdemokrater i Europaparlamentet</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="ECR">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>European Conservatives and Reformists Group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>CRE</groupAcronym>
+                    <groupLongName>Grupo de los Conservadores y Reformistas Europeos</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>ЕКР</groupAcronym>
+                    <groupLongName>Европейски консерватори и реформисти</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Skupina Evropských konzervativců a reformistů</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>De Europæiske Konservative og Reformister</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Fraktion der Europäischen Konservativen und Reformer</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>ΕΣΜ</groupAcronym>
+                    <groupLongName>Ομάδα των Ευρωπαίων Συντηρητικών και Μεταρρυθμιστών</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Euroopa Konservatiivide ja Reformistide fraktsioon</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Euroopan konservatiivit ja reformistit</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Groupe des Conservateurs et Réformistes européens</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>An Grúpa do Choimeádaigh agus Leasaitheoirí na hEorpa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Europski konzervativci i reformisti</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Európai Konzervatívok és Reformerek képviselőcsoport</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Gruppo dei Conservatori e Riformisti europei</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Eiropas Konservatīvo un reformistu grupa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Europos konservatorių ir reformuotojų frakcija</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Grupp tal-Konservattivi u r-Riformisti Ewropej</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Fractie Europese Conservatieven en Hervormers</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Europejscy Konserwatyści i Reformatorzy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Grupo dos Conservadores e Reformistas Europeus</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>CRE</groupAcronym>
+                    <groupLongName>Grupul Conservatorilor și Reformiștilor Europeni</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>EKR</groupAcronym>
+                    <groupLongName>Európski konzervatívci a reformisti</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Skupina Evropskih konservativcev in reformistov</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>ECR</groupAcronym>
+                    <groupLongName>Gruppen Europeiska konservativa och reformister</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="ALDE">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>Renew Europe</groupAcronym>
+                    <groupLongName>Renew Europe group</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="GUENGL">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Confederal Group of the European United Left - Nordic Green Left</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Grupo Confederal de la Izquierda Unitaria Europea/Izquierda Verde Nórdica</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>ЕОЛ/СЗЛ</groupAcronym>
+                    <groupLongName>Конфедеративна група на Европейската обединена левица - Северна зелена левица</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Skupina konfederace Evropské sjednocené levice a Severské zelené levice</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Den Europæiske Venstrefløjs Fællesgruppe/Nordisk Grønne Venstre</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Konföderale Fraktion der Vereinigten Europäischen Linken/Nordische Grüne Linke</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Συνομοσπονδιακή Ομάδα της Ευρωπαϊκής Ενωτικής Αριστεράς/Αριστερά των Πρασίνων των Βορείων Χωρών</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Euroopa Ühendatud Vasakpoolsete / Põhjamaade Roheliste Vasakpoolsete liitfraktsioon</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Euroopan yhtyneen vasemmiston konfederaatioryhmä/Pohjoismaiden vihreä vasemmisto</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Groupe confédéral de la Gauche unitaire européenne/Gauche verte nordique</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Grúpa Cónasctha den Chlé Aontaithe Eorpach - den Chlé Ghlas Nordach</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Konfederalni klub zastupnika Ujedinjene europske ljevice i Nordijske zelene ljevice</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Egységes Európai Baloldal/Északi Zöld Baloldal képviselőcsoport</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Gruppo confederale della Sinistra unitaria europea/Sinistra verde nordica</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Eiropas Apvienotā kreiso un Ziemeļvalstu Zaļo kreiso spēku konfederālā grupa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Europos vieningųjų kairiųjų jungtinė frakcija/Šiaurės šalių žalieji kairieji</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Grupp Konfederali tax-Xellug Magħqud Ewropew - Xellug Aħdar Nordiku</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Confederale Fractie Europees Unitair Links/Noords Groen Links</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Konfederacyjna Grupa Zjednoczonej Lewicy Europejskiej / Nordycka Zielona Lewica</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Grupo Confederal da Esquerda Unitária Europeia/Esquerda Nórdica Verde</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Grupul Confederal al Stângii Unite Europene/Stânga Verde Nordică</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Konfederatívna skupina Európskej zjednotenej ľavice - Severskej zelenej ľavice</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Konfederalna skupina Evropske združene levice - Zelene nordijske levice</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>GUE/NGL</groupAcronym>
+                    <groupLongName>Gruppen Europeiska enade vänstern/Nordisk grön vänster</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="GREENSEFA">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>Greens/EFA</groupAcronym>
+                    <groupLongName>Group of the Greens/European Free Alliance</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>Verdes/ALE</groupAcronym>
+                    <groupLongName>Grupo de los Verdes/Alianza Libre Europea</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>Зелените/ECA</groupAcronym>
+                    <groupLongName>Група на Зелените/Европейски свободен алианс</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>Zelení/ESA</groupAcronym>
+                    <groupLongName>Skupina Zelených/Evropské svobodné aliance</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>Grønne/EFA</groupAcronym>
+                    <groupLongName>Gruppen De Grønne/Den Europæiske Fri Alliance</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>Grüne/EFA</groupAcronym>
+                    <groupLongName>Fraktion der Grünen / Freie Europäische Allianz</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>Verts/ALE</groupAcronym>
+                    <groupLongName>Ομάδα τωv Πρασίvωv / Ευρωπαϊκή Ελεύθερη Συμμαχία</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>Rohelised/EVF</groupAcronym>
+                    <groupLongName>Roheliste / Euroopa Vabaliidu fraktsioon</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>Vihreät/EVA</groupAcronym>
+                    <groupLongName>Vihreät / Euroopan vapaa allianssi -ryhmä</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>Verts/ALE</groupAcronym>
+                    <groupLongName>Groupe des Verts/Alliance libre européenne</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>Na Glasaigh/SCE</groupAcronym>
+                    <groupLongName>An Grúpa Glas/Grúpa na Saor-Comhghuaillíochta Eorpaí</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>Zeleni/ESS</groupAcronym>
+                    <groupLongName>Klub zastupnika Zelenih/Europskog slobodnog saveza</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>Zöldek/ESS</groupAcronym>
+                    <groupLongName>Zöldek/Európai Szabad Szövetség képviselőcsoport</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>Verdi/ALE</groupAcronym>
+                    <groupLongName>Gruppo dei Verdi/Alleanza libera europea</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>Zaļie/EBA</groupAcronym>
+                    <groupLongName>Zaļo un Eiropas Brīvās apvienības grupa</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>Žalieji/ELA</groupAcronym>
+                    <groupLongName>Žaliųjų frakcija/Europos laisvasis aljansas</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>Ħodor/AĦE</groupAcronym>
+                    <groupLongName>Grupp tal-Ħodor/Alleanza Ħielsa Ewropea</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>Groenen/EVA</groupAcronym>
+                    <groupLongName>Fractie De Groenen/Vrije Europese Alliantie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>Zieloni/WSE</groupAcronym>
+                    <groupLongName>Grupa Zielonych / Wolne Przymierze Europejskie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>Verdes/ALE</groupAcronym>
+                    <groupLongName>Grupo dos Verdes/Aliança Livre Europeia</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>Verts/ALE</groupAcronym>
+                    <groupLongName>Grupul Verzilor/Alianța Liberă Europeană</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>Zelení/ESA</groupAcronym>
+                    <groupLongName>Skupina zelených/Európska slobodná aliancia</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>Zeleni/ESZ</groupAcronym>
+                    <groupLongName>Skupina Zelenih/Evropske svobodne zveze</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>Gröna/EFA</groupAcronym>
+                    <groupLongName>Gruppen De gröna/Europeiska fria alliansen</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="ENF">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identita a Demokracie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identitet og Demokrati</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identität und Demokratie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identiteet ja Demokraatia</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identiteetti ja Demokratia</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identité et Démocratie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identità e Democrazia</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identiteit en Democratie</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>ID</groupAcronym>
+                    <groupLongName>Identity and Democracy</groupLongName>
+                </translation>
+            </translations>
+        </group>
+        <group groupId="NA">
+            <translations>
+                <translation>
+                    <languageId>EN</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Non-attached Members</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ES</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>No inscritos</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>BG</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Независими членове</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>CS</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Nezařazení poslanci</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DA</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Løsgængere</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>DE</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Fraktionslos</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>EL</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Μη Εγγεγραμμένοι</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>ET</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Fraktsioonilise kuuluvuseta parlamendiliikmed</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FI</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Sitoutumattomat</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>FR</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Non-inscrits</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>GA</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Feisirí Neamhcheangailte</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HR</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Nezavisni zastupnici</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>HU</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>független képviselők</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>IT</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Non iscritti</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LV</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Pie politiskajām grupām nepiederošie deputāti</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>LT</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Nepriklausomi nariai</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>MT</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Membri mhux affiljati</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>NL</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Niet-fractiegebonden leden</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PL</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Niezrzeszeni</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>PT</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Não Inscritos</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>RO</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Deputați neafiliați</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SK</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Nezaradení poslanci</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SL</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Samostojni poslanci</groupLongName>
+                </translation>
+                <translation>
+                    <languageId>SV</languageId>
+                    <groupAcronym>NI</groupAcronym>
+                    <groupLongName>Grupplösa</groupLongName>
+                </translation>
+            </translations>
+        </group>
+    </groups>
+</groupsMetadata>
