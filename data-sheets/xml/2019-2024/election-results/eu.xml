@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seatsBreakdownEU>
+    <title>EU_HEMICYCLE_TITLE</title>
+    <status>CONSTITUTIVE</status>
+    <time>2019-07-02T10:00:00.000+0200</time>
+    <seatsTotal>751</seatsTotal>
+    <groupDistribution>
+        <seatsOfGroup id="EPP">
+            <seatsTotal>182</seatsTotal>
+            <seatsPercentEU>24.23</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="SD">
+            <seatsTotal>154</seatsTotal>
+            <seatsPercentEU>20.51</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="ECR">
+            <seatsTotal>62</seatsTotal>
+            <seatsPercentEU>8.26</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="ALDE">
+            <seatsTotal>108</seatsTotal>
+            <seatsPercentEU>14.38</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="GUENGL">
+            <seatsTotal>41</seatsTotal>
+            <seatsPercentEU>5.46</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="GREENSEFA">
+            <seatsTotal>74</seatsTotal>
+            <seatsPercentEU>9.85</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="ENF">
+            <seatsTotal>73</seatsTotal>
+            <seatsPercentEU>9.72</seatsPercentEU>
+        </seatsOfGroup>
+        <seatsOfGroup id="NA">
+            <seatsTotal>57</seatsTotal>
+            <seatsPercentEU>7.59</seatsPercentEU>
+        </seatsOfGroup>
+    </groupDistribution>
+</seatsBreakdownEU>
