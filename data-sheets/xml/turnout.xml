@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<turnout>
+    <title>EU_TURNOUT_TITLE</title>
+    <years>
+        <year yearId="1979">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>61.99</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>91.36</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>47.82</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>65.73</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>63.61</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>60.71</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>85.65</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>88.91</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>58.12</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>32.35</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1981">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>81.48</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1984">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>58.98</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>92.09</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>52.38</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>56.76</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>47.56</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>56.72</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>82.47</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>88.79</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>50.88</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>32.57</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>80.59</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1987">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>68.52</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>72.42</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1989">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>58.41</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>90.73</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>46.17</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>62.28</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>68.28</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>48.8</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>81.07</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>87.39</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>47.48</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>36.37</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>80.03</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>54.71</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>51.1</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1994">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>56.67</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>90.66</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>52.92</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>60.02</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>43.98</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>52.71</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>73.6</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>88.55</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>35.69</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>36.43</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>73.18</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>59.14</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>35.54</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1995">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <percent>41.63</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1996">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <percent>67.73</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <percent>57.6</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="1999">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>49.51</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>91.05</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>50.46</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>45.19</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>50.21</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>46.76</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>69.76</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>87.27</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>30.02</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>24.0</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>70.25</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>63.05</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>39.93</percent>
+                    </country>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <percent>38.84</percent>
+                    </country>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <percent>49.4</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <percent>30.14</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2004">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>45.47</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>90.81</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>47.89</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>43.0</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>58.58</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>42.76</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>71.72</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>91.35</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>39.26</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>38.52</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>63.22</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>45.14</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>38.6</percent>
+                    </country>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <percent>37.85</percent>
+                    </country>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <percent>42.43</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <percent>39.43</percent>
+                    </country>
+                    <country countryId="CZ">
+                        <status>FINAL</status>
+                        <percent>28.3</percent>
+                    </country>
+                    <country countryId="EE">
+                        <status>FINAL</status>
+                        <percent>26.83</percent>
+                    </country>
+                    <country countryId="CY">
+                        <status>FINAL</status>
+                        <percent>72.5</percent>
+                    </country>
+                    <country countryId="LT">
+                        <status>FINAL</status>
+                        <percent>48.38</percent>
+                    </country>
+                    <country countryId="LV">
+                        <status>FINAL</status>
+                        <percent>41.34</percent>
+                    </country>
+                    <country countryId="HU">
+                        <status>FINAL</status>
+                        <percent>38.5</percent>
+                    </country>
+                    <country countryId="MT">
+                        <status>FINAL</status>
+                        <percent>82.39</percent>
+                    </country>
+                    <country countryId="PL">
+                        <status>FINAL</status>
+                        <percent>20.87</percent>
+                    </country>
+                    <country countryId="SI">
+                        <status>FINAL</status>
+                        <percent>28.35</percent>
+                    </country>
+                    <country countryId="SK">
+                        <status>FINAL</status>
+                        <percent>16.97</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2007">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="BG">
+                        <status>FINAL</status>
+                        <percent>29.22</percent>
+                    </country>
+                    <country countryId="RO">
+                        <status>FINAL</status>
+                        <percent>29.47</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2009">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>42.97</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>90.39</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>59.54</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>43.27</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>58.64</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>40.63</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>66.47</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>90.76</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>36.75</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>34.7</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>52.54</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>44.87</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>36.77</percent>
+                    </country>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <percent>45.53</percent>
+                    </country>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <percent>45.97</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <percent>38.6</percent>
+                    </country>
+                    <country countryId="CZ">
+                        <status>FINAL</status>
+                        <percent>28.22</percent>
+                    </country>
+                    <country countryId="EE">
+                        <status>FINAL</status>
+                        <percent>43.9</percent>
+                    </country>
+                    <country countryId="CY">
+                        <status>FINAL</status>
+                        <percent>59.4</percent>
+                    </country>
+                    <country countryId="LT">
+                        <status>FINAL</status>
+                        <percent>20.98</percent>
+                    </country>
+                    <country countryId="LV">
+                        <status>FINAL</status>
+                        <percent>53.7</percent>
+                    </country>
+                    <country countryId="HU">
+                        <status>FINAL</status>
+                        <percent>36.31</percent>
+                    </country>
+                    <country countryId="MT">
+                        <status>FINAL</status>
+                        <percent>78.79</percent>
+                    </country>
+                    <country countryId="PL">
+                        <status>FINAL</status>
+                        <percent>24.53</percent>
+                    </country>
+                    <country countryId="SI">
+                        <status>FINAL</status>
+                        <percent>28.37</percent>
+                    </country>
+                    <country countryId="SK">
+                        <status>FINAL</status>
+                        <percent>19.64</percent>
+                    </country>
+                    <country countryId="BG">
+                        <status>FINAL</status>
+                        <percent>38.99</percent>
+                    </country>
+                    <country countryId="RO">
+                        <status>FINAL</status>
+                        <percent>27.67</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2013">
+            <turnoutOfYear>
+                <turnoutByCountry>
+                    <country countryId="HR">
+                        <status>FINAL</status>
+                        <percent>20.84</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2014">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <percent>42.61</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <percent>89.64</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <percent>56.32</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <percent>48.1</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <percent>52.44</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <percent>42.43</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <percent>57.22</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <percent>85.55</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <percent>37.32</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <percent>35.6</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <percent>59.97</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <percent>43.81</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <percent>33.67</percent>
+                    </country>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <percent>51.07</percent>
+                    </country>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <percent>45.39</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <percent>39.1</percent>
+                    </country>
+                    <country countryId="CZ">
+                        <status>FINAL</status>
+                        <percent>18.2</percent>
+                    </country>
+                    <country countryId="EE">
+                        <status>FINAL</status>
+                        <percent>36.52</percent>
+                    </country>
+                    <country countryId="CY">
+                        <status>FINAL</status>
+                        <percent>43.97</percent>
+                    </country>
+                    <country countryId="LT">
+                        <status>FINAL</status>
+                        <percent>47.35</percent>
+                    </country>
+                    <country countryId="LV">
+                        <status>FINAL</status>
+                        <percent>30.24</percent>
+                    </country>
+                    <country countryId="HU">
+                        <status>FINAL</status>
+                        <percent>28.97</percent>
+                    </country>
+                    <country countryId="MT">
+                        <status>FINAL</status>
+                        <percent>74.8</percent>
+                    </country>
+                    <country countryId="PL">
+                        <status>FINAL</status>
+                        <percent>23.83</percent>
+                    </country>
+                    <country countryId="SI">
+                        <status>FINAL</status>
+                        <percent>24.55</percent>
+                    </country>
+                    <country countryId="SK">
+                        <status>FINAL</status>
+                        <percent>13.05</percent>
+                    </country>
+                    <country countryId="BG">
+                        <status>FINAL</status>
+                        <percent>35.84</percent>
+                    </country>
+                    <country countryId="RO">
+                        <status>FINAL</status>
+                        <percent>32.44</percent>
+                    </country>
+                    <country countryId="HR">
+                        <status>FINAL</status>
+                        <percent>25.24</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+        <year yearId="2019">
+            <turnoutOfYear>
+                <turnoutEU>
+                    <status>FINAL</status>
+                    <time>2019-09-25T18:12:30.415+0200</time>
+                    <percent>50.62</percent>
+                </turnoutEU>
+                <turnoutByCountry>
+                    <country countryId="BE">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>88.47</percent>
+                    </country>
+                    <country countryId="BG">
+                        <status>FINAL</status>
+                        <time>2019-06-03T11:52:35.827+0200</time>
+                        <percent>32.64</percent>
+                    </country>
+                    <country countryId="CZ">
+                        <status>FINAL</status>
+                        <time>2019-05-27T01:28:43.329+0200</time>
+                        <percent>28.72</percent>
+                    </country>
+                    <country countryId="DK">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>66.08</percent>
+                    </country>
+                    <country countryId="DE">
+                        <status>FINAL</status>
+                        <time>2019-06-24T15:14:14.438+0200</time>
+                        <percent>61.38</percent>
+                    </country>
+                    <country countryId="EE">
+                        <status>FINAL</status>
+                        <time>2019-05-27T01:28:43.329+0200</time>
+                        <percent>37.6</percent>
+                    </country>
+                    <country countryId="IE">
+                        <status>FINAL</status>
+                        <time>2019-05-28T14:38:57.471+0200</time>
+                        <percent>49.7</percent>
+                    </country>
+                    <country countryId="EL">
+                        <status>FINAL</status>
+                        <time>2019-06-26T14:59:18.168+0200</time>
+                        <percent>58.69</percent>
+                    </country>
+                    <country countryId="ES">
+                        <status>FINAL</status>
+                        <time>2019-06-18T16:24:57.067+0200</time>
+                        <percent>60.73</percent>
+                    </country>
+                    <country countryId="FR">
+                        <status>FINAL</status>
+                        <time>2019-05-27T10:18:05.549+0200</time>
+                        <percent>50.12</percent>
+                    </country>
+                    <country countryId="IT">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>54.5</percent>
+                    </country>
+                    <country countryId="CY">
+                        <status>FINAL</status>
+                        <time>2019-05-27T01:28:43.329+0200</time>
+                        <percent>44.99</percent>
+                    </country>
+                    <country countryId="LV">
+                        <status>FINAL</status>
+                        <time>2019-06-04T15:48:10.108+0200</time>
+                        <percent>33.53</percent>
+                    </country>
+                    <country countryId="LT">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>53.48</percent>
+                    </country>
+                    <country countryId="LU">
+                        <status>FINAL</status>
+                        <time>2019-06-17T16:13:27.050+0200</time>
+                        <percent>84.24</percent>
+                    </country>
+                    <country countryId="HU">
+                        <status>FINAL</status>
+                        <time>2019-06-17T16:13:27.050+0200</time>
+                        <percent>43.36</percent>
+                    </country>
+                    <country countryId="MT">
+                        <status>FINAL</status>
+                        <time>2019-05-27T10:18:05.549+0200</time>
+                        <percent>72.7</percent>
+                    </country>
+                    <country countryId="NL">
+                        <status>FINAL</status>
+                        <time>2019-06-06T12:05:23.219+0200</time>
+                        <percent>41.93</percent>
+                    </country>
+                    <country countryId="AT">
+                        <status>FINAL</status>
+                        <time>2019-05-28T14:38:57.471+0200</time>
+                        <percent>59.8</percent>
+                    </country>
+                    <country countryId="PL">
+                        <status>FINAL</status>
+                        <time>2019-05-27T15:05:09.141+0200</time>
+                        <percent>45.68</percent>
+                    </country>
+                    <country countryId="PT">
+                        <status>FINAL</status>
+                        <time>2019-06-24T15:14:14.438+0200</time>
+                        <percent>30.75</percent>
+                    </country>
+                    <country countryId="RO">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>51.2</percent>
+                    </country>
+                    <country countryId="SI">
+                        <status>FINAL</status>
+                        <time>2019-06-04T15:48:10.108+0200</time>
+                        <percent>28.89</percent>
+                    </country>
+                    <country countryId="SK">
+                        <status>FINAL</status>
+                        <time>2019-05-27T01:28:43.329+0200</time>
+                        <percent>22.74</percent>
+                    </country>
+                    <country countryId="FI">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>40.8</percent>
+                    </country>
+                    <country countryId="SE">
+                        <status>FINAL</status>
+                        <time>2019-06-03T11:52:35.827+0200</time>
+                        <percent>55.27</percent>
+                    </country>
+                    <country countryId="UK">
+                        <status>FINAL</status>
+                        <time>2019-05-28T14:38:57.471+0200</time>
+                        <percent>36.9</percent>
+                    </country>
+                    <country countryId="HR">
+                        <status>FINAL</status>
+                        <time>2019-09-25T18:12:30.415+0200</time>
+                        <percent>29.85</percent>
+                    </country>
+                </turnoutByCountry>
+            </turnoutOfYear>
+        </year>
+    </years>
+</turnout>

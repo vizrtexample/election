@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<labels>
+    <languages>
+        <language languageId="ES">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Resultados oficiales</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Escaños por partidos políticos</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Resultados definitivos</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Hemiciclo</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Proyección de resultados</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Escaños por grupos</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Resultados provisionales</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Paridad de género en la UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Partidos políticos con resultados</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Participación electoral</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Sesión constitutiva</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Estimaciones</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Paridad de género</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlamento saliente</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="EN">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Official results</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Breakdown parties</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Final results</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Hemicycle</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projection</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Breakdown groups</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Provisional results</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>EU Gender Balance</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Results parties</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Turnout</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Constitutive session</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Estimates</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Gender Balance</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Outgoing Parliament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="BG">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Официални резултати</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Разбивка по партии</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Окончателни резултати</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Състав</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Проекция</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Разбивка по групи</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Предварителни резултати</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Съотношение между мъжете и жените в ЕС</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Резултати по партии</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Избирателна активност</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Учредително заседание</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Приблизителни оценки</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Съотношение между мъжете и жените</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Парламент в края на мандата</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="CS">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Oficiální výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Rozdělení stran</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Konečné výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Polokruh</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Předpoklad</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Rozdělení skupin</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Prozatímní výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Zastoupení mužů a žen EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Výsledky stran</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Účast</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Ustavující zasedání</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Odhady</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Zastoupení mužů a žen</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Končící parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="DA">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Officielle resultater</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Opdel partier</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Endelige resultater</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Parlamentets mødesal</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Fremskrivning</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Opdel grupper</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Foreløbige resultater</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Kønsfordeling EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Resultater partier</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Valgdeltagelse</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Konstituerende møde</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Skøn</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Kønsfordeling</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Afgående Parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="DE">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Offizielle Ergebnisse</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Aufschlüsselung nach Parteien</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Endergebnisse</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Sitzverteilung</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Prognostizierte Ergebnisse</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Aufschlüsselung nach Fraktionen</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Vorläufige Ergebnisse (Hochrechnung)</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Geschlechterverhältnis EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Ergebnisse Parteien</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Wahlbeteiligung</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Konstituierende Sitzung</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Schätzungen</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Geschlechterverhältnis</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Scheidendes Parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="EL">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Επίσημα αποτελέσματα</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Κατάταξη κομμάτων</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Τελικά αποτελέσματα</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Ημικύκλιο</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Πρόβλεψη</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Κατάταξη ομάδων</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Προσωρινά αποτελέσματα</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Κατανομή ανδρών και γυναικών στην ΕΕ</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Αποτελέσματα κομμάτων</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Συμμετοχή</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Συντακτική συνέλευση</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Εκτιμήσεις</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Κατανομή ανδρών και γυναικών</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Απερχόμενο Κοινοβούλιο</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="ET">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Ametlikud tulemused</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Jaotus erakondade kaupa</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Lõplikud tulemused</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Istungite saal</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Prognoositav koosseis</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Jaotus fraktsioonide kaupa</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Esialgsed tulemused</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Sooline jaotus EL-i lõikes</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Erakondade tulemused</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Valimisaktiivsus</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Koosseis avaistungil</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Prognoosid</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Sooline jaotus</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlamendi lahkuv koosseis</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="FI">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Viralliset tulokset</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Jaottelu puolueet</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Lopulliset tulokset</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Istuntosali</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Ennuste</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Jaottelu ryhmät</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Alustavat tulokset</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Sukupuolijakauma EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Tulokset puolueet</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Äänestysprosentti</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Järjestäytymisistunto</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Arviot</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Sukupuolijakauma</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Väistyvä parlamentti</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="FR">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Résultats officiels</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Répartition des partis</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Résultats définitifs</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Hémicycle</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projections</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Répartition des groupes</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Résultats provisoires</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Répartition hommes-femmes au sein de l’Union européenne</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Résultats par parti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Participation</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Session constitutive</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Estimations</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Répartition hommes-femmes</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlement sortant</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="GA">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Torthaí oifigiúla</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Miondealú ar pháirtithe</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Torthaí críochnaitheacha</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Seomra tionóil</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Réamh-mheastachán</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Miondealú ar ghrúpaí</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Torthaí sealadacha</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Cothromaíocht inscne AE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Torthaí de réir páirtithe</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Ráta vótála</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Seisiún reachtach</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Meastacháin</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Cothromaíocht inscne</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlaimint atá ag dul as oifig</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="HR">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Službeni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Raspodjela stranaka</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Konačni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Vijećnica</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projekcija rezultata</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Raspodjela klubova</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Privremeni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Ravnoteža među spolovima u EU-u</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Stranke s rezultatima</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Odaziv birača</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Konstituirajuća sjednica</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Procjene</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Ravnoteža među spolovima</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlament na odlasku</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="HU">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Hivatalos eredmények</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Lebontás pártokra</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Végeredmények</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Ülésterem</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Előrejelzés</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Lebontás csoportokra</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Részeredmények</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>A nemek aránya az EU-ban</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Pártok eredményei</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Részvételi arány</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Alakuló ülés</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Becsült adatok</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>A nemek aránya</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Távozó parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="IT">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Risultati ufficiali</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Suddivisione partiti</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Risultati finali</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Emiciclo</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Proiezione</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Suddivisione gruppi</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Risultati provvisori</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Equilibrio di genere UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Risultati partiti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Affluenza</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Sessione costitutiva</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Stime</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Equilibrio di genere</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlamento uscente</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="LT">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Oficialūs rezultatai</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Skirstyti partijas</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Galutiniai rezultatai</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Plenarinių posėdžių salė</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projekcija</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Skirstyti grupes</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Preliminarūs rezultatai</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Lyčių pusiausvyra ES</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Partijų rezultatai</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Dalyvavimas rinkimuose</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Steigiamoji sesija</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Apytikriai rezultatai</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Lyčių pusiausvyra</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Kadenciją baigiantis Parlamentas</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="LV">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Oficiālie rezultāti</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Partiju sadalījums</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Galīgie rezultāti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Sēžu zāle</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Prognoze</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Grupu sadalījums</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Provizoriskie rezultāti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Dzimumu līdzsvars ES</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Partiju rezultāti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Vēlētāju aktivitāte</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Konstitutīvā sesija</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Aplēses</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Dzimumu līdzsvars</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Aizejošais parlaments</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="MT">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Riżultati uffiċjali</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Tqassim tal-partiti</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Riżultati finali</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Emiċiklu</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projezzjoni</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Tqassim tal-gruppi</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Riżultati proviżorji</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Bilanċ Bejn is-Sessi fl-UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Riżultati partiti</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Parteċipazzjoni</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Sessjoni kostituttiva</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Stimi</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Bilanċ Bejn is-Sessi</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlament uxxenti</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="NL">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Officiële resultaten</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Splitsing partijen</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Definitieve resultaten</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Grote vergaderzaal</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Voorspelling</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Splitsing fracties</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Voorlopige resultaten</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Genderverdeling EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Resultaten partijen</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Opkomst</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Constituerende vergadering</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Schattingen</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Genderverdeling</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Uittredend Parlement</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="PL">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Oficjalne wyniki</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Podział partii</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Wyniki końcowe</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Półokrąg</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Prognoza</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Podział grup</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Wstępne wyniki</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Równowaga płci w UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Wyniki — partie</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Frekwencja</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Posiedzenie inauguracyjne</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Szacunki</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Równowaga płci</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Ustępujący parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="PT">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Resultados oficiais</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Repartição dos partidos</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Resultados finais</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Hemiciclo</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Projeção</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Repartição dos grupos</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Resultados provisórios</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Equilíbrio de género na UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Resultados dos partidos</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Participação</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Sessão constitutiva</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Estimativas</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Equilíbrio de género</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Parlamento cessante</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="RO">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Rezultate oficiale</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Împărțire partide</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Rezultate finale</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Hemiciclu</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Estimări</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Împărțire grupuri</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Rezultate provizorii</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Echilibrul de gen în UE</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Rezultate partide</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Rată de participare</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Ședință constitutivă</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Estimări</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Echilibrul de gen</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Actualul Parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="SK">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Oficiálne výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Rozdelenie strán</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Konečné výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Rokovacia sála</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Odhad</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Rozdelenie skupín</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Predbežné výsledky</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Rodová rovnováha v EÚ</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Výsledky podľa strán</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Volebná účasť</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Ustanovujúce zasadnutie</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Odhady</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Rodová rovnováha</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Odchádzajúci parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="SL">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Uradni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Razčlenitev strank</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Končni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Polkrožna sejna dvorana</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Napoved</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Razčlenitev skupin</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Začasni rezultati</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Zastopanost spolov za EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Rezultati strank</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Volilna udeležba</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Otvoritveno zasedanje</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Ocene</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Zastopanost spolov</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Odhajajoči parlament</label>
+                </translation>
+            </translations>
+        </language>
+        <language languageId="SV">
+            <translations>
+                <translation>
+                    <labelId>OFFICIAL</labelId>
+                    <label>Officiella resultat</label>
+                </translation>
+                <translation>
+                    <labelId>BREAKDOWN_BY_PARTY_TITLE</labelId>
+                    <label>Fördelning av partier</label>
+                </translation>
+                <translation>
+                    <labelId>FINAL</labelId>
+                    <label>Slutliga resultat</label>
+                </translation>
+                <translation>
+                    <labelId>EU_HEMICYCLE_TITLE</labelId>
+                    <label>Halvcirkel</label>
+                </translation>
+                <translation>
+                    <labelId>PROJECTION</labelId>
+                    <label>Prognos</label>
+                </translation>
+                <translation>
+                    <labelId>SEATS_BY_GROUP_TITLE</labelId>
+                    <label>Fördelning av grupper</label>
+                </translation>
+                <translation>
+                    <labelId>PROVISIONAL</labelId>
+                    <label>Preliminära resultat</label>
+                </translation>
+                <translation>
+                    <labelId>EU_GENDER_BALANCE_TITLE</labelId>
+                    <label>Könsfördelning EU</label>
+                </translation>
+                <translation>
+                    <labelId>RESULTS_BY_PARTY_TITLE</labelId>
+                    <label>Resultat för partier</label>
+                </translation>
+                <translation>
+                    <labelId>EU_TURNOUT_TITLE</labelId>
+                    <label>Valdeltagande</label>
+                </translation>
+                <translation>
+                    <labelId>CONSTITUTIVE</labelId>
+                    <label>Konstituerande plenarsammanträde</label>
+                </translation>
+                <translation>
+                    <labelId>ESTIMATE</labelId>
+                    <label>Beräkningar</label>
+                </translation>
+                <translation>
+                    <labelId>GENDER_BALANCE_TITLE</labelId>
+                    <label>Könsfördelning</label>
+                </translation>
+                <translation>
+                    <labelId>OUTGOING</labelId>
+                    <label>Utgående parlament</label>
+                </translation>
+            </translations>
+        </language>
+    </languages>
+</labels>
